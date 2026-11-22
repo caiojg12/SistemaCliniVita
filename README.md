@@ -1,15 +1,15 @@
 *Sistema CliniVIta*
 
 Projeto desenvolvido em linguagem C para o Projeto Integrado Multidisciplinar II (PIM II), do curso de Análise e Desenvolvimento de Sistemas.
-O CliniVita é um protótipo de sistema para gerenciamento básico de uma clínica de fisioterapia
+O CliniVita é um protótipo de sistema para gerenciamento básico de uma clínica de fisioterapia.
 
 *Funcionalidades*
 
-Cadastro de pacientes
-Consulta de pacientes
-Cadastro de profissionais
-Agendamento de sessões
-Consulta de agendamentos
+Cadastro de pacientes,
+Consulta de pacientes,
+Cadastro de profissionais,
+Agendamento de sessões,
+Consulta de agendamentos,
 Controle de sessões realizadas e não realizadas
 
 *Tecnologias utilizadas*
@@ -28,4 +28,5 @@ Arquivos de texto (.txt)
 Os arquivos de texto são criados automaticamente durante a utilização do sistema, conforme os registros realizados
 
 *Observações*
-Este sistema é um protótipo acadêmico desenvolvido para aplicar conceitos de Programação Estruturada em C
+
+Este sistema é um protótipo acadêmico desenvolvido para aplicar conceitos de Programação Estruturada em C.
