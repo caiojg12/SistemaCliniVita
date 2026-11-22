@@ -1,4 +1,4 @@
-*Sistema CliniVIta*
+*Sistema CliniVita*
 
 Projeto desenvolvido em linguagem C para o Projeto Integrado Multidisciplinar II (PIM II), do curso de Análise e Desenvolvimento de Sistemas.
 O CliniVita é um protótipo de sistema para gerenciamento básico de uma clínica de fisioterapia.
