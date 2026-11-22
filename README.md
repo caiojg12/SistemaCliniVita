@@ -1,6 +1,6 @@
 *Sistema CliniVIta*
 
-Projeto desenvolvido em linguagem C para o Projeto Integrado Multidisciplinar II (PIM II), do curso de Análise e Desenvolvimento de Sistemas
+Projeto desenvolvido em linguagem C para o Projeto Integrado Multidisciplinar II (PIM II), do curso de Análise e Desenvolvimento de Sistemas.
 O CliniVita é um protótipo de sistema para gerenciamento básico de uma clínica de fisioterapia
 
 *Funcionalidades*
@@ -14,8 +14,8 @@ Controle de sessões realizadas e não realizadas
 
 *Tecnologias utilizadas*
 
-Linguagem C
-CodeBlocks
+Linguagem C,
+CodeBlocks,
 Arquivos de texto (.txt)
 
 *Como executar*
